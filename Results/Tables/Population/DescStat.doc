@@ -1,0 +1,270 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\fs20\b\qc\line \i }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx1650
+\fs20\pard\intbl\qr { }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx2781
+\fs20\pard\intbl\qr {{ N}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3913
+\fs20\pard\intbl\qr {{ Mean}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx5044
+\fs20\pard\intbl\qr {{ SD}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx6175
+\fs20\pard\intbl\qr {{ Min}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx7306
+\fs20\pard\intbl\qr {{ Max}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx8438
+\fs20\pard\intbl\qr {{ p25}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx9569
+\fs20\pard\intbl\qr {{ Median}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx10700
+\fs20\pard\intbl\qr {{ p75}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ n comp}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{2.392}}\cell
+\cellx5044
+\qr {{1.214}}\cell
+\cellx6175
+\qr {{1}}\cell
+\cellx7306
+\qr {{12}}\cell
+\cellx8438
+\qr {{1}}\cell
+\cellx9569
+\qr {{2}}\cell
+\cellx10700
+\qr {{3}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ net income}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{55876.843}}\cell
+\cellx5044
+\qr {{123356.018}}\cell
+\cellx6175
+\qr {{.1}}\cell
+\cellx7306
+\qr {{8558282.1}}\cell
+\cellx8438
+\qr {{22698.136}}\cell
+\cellx9569
+\qr {{37378.748}}\cell
+\cellx10700
+\qr {{59904.704}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ net wealth}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{612220.35}}\cell
+\cellx5044
+\qr {{4616229.639}}\cell
+\cellx6175
+\qr {{-348000}}\cell
+\cellx7306
+\qr {{3.408e+08}}\cell
+\cellx8438
+\qr {{89500}}\cell
+\cellx9569
+\qr {{204220.95}}\cell
+\cellx10700
+\qr {{435008.39}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ selfmade wealth}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{576329.52}}\cell
+\cellx5044
+\qr {{4609197.564}}\cell
+\cellx6175
+\qr {{-457400}}\cell
+\cellx7306
+\qr {{3.408e+08}}\cell
+\cellx8438
+\qr {{47317.211}}\cell
+\cellx9569
+\qr {{180000}}\cell
+\cellx10700
+\qr {{402348.59}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ savings}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{23812.678}}\cell
+\cellx5044
+\qr {{109942.678}}\cell
+\cellx6175
+\qr {{-142351.84}}\cell
+\cellx7306
+\qr {{8232562.1}}\cell
+\cellx8438
+\qr {{2482.19}}\cell
+\cellx9569
+\qr {{10115.437}}\cell
+\cellx10700
+\qr {{24381.304}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ saving rate}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{-328.781}}\cell
+\cellx5044
+\qr {{7252.271}}\cell
+\cellx6175
+\qr {{-362906.75}}\cell
+\cellx7306
+\qr {{.99}}\cell
+\cellx8438
+\qr {{.105}}\cell
+\cellx9569
+\qr {{.293}}\cell
+\cellx10700
+\qr {{.458}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ poss year}}\cell
+\cellx2781
+\qr {{7654}}\cell
+\cellx3913
+\qr {{1994.614}}\cell
+\cellx5044
+\qr {{16.767}}\cell
+\cellx6175
+\qr {{1927}}\cell
+\cellx7306
+\qr {{2022}}\cell
+\cellx8438
+\qr {{1982}}\cell
+\cellx9569
+\qr {{1996}}\cell
+\cellx10700
+\qr {{2008}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ poss value}}\cell
+\cellx2781
+\qr {{7654}}\cell
+\cellx3913
+\qr {{152375.84}}\cell
+\cellx5044
+\qr {{223802.877}}\cell
+\cellx6175
+\qr {{500}}\cell
+\cellx7306
+\qr {{10000000}}\cell
+\cellx8438
+\qr {{50000}}\cell
+\cellx9569
+\qr {{100000}}\cell
+\cellx10700
+\qr {{190000}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ value 2022}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{254873.46}}\cell
+\cellx5044
+\qr {{337407.558}}\cell
+\cellx6175
+\qr {{3000}}\cell
+\cellx7306
+\qr {{10000000}}\cell
+\cellx8438
+\qr {{110000}}\cell
+\cellx9569
+\qr {{180000}}\cell
+\cellx10700
+\qr {{300000}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ inher share}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{10.982}}\cell
+\cellx5044
+\qr {{40.161}}\cell
+\cellx6175
+\qr {{0}}\cell
+\cellx7306
+\qr {{1612.903}}\cell
+\cellx8438
+\qr {{0}}\cell
+\cellx9569
+\qr {{0}}\cell
+\cellx10700
+\qr {{0}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1650
+\fs20\pard\intbl\ql {{ inheritor}}\cell
+\cellx2781
+\qr {{9641}}\cell
+\cellx3913
+\qr {{.136}}\cell
+\cellx5044
+\qr {{0.342}}\cell
+\cellx6175
+\qr {{0}}\cell
+\cellx7306
+\qr {{1}}\cell
+\cellx8438
+\qr {{0}}\cell
+\cellx9569
+\qr {{0}}\cell
+\cellx10700
+\qr {{0}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx1650
+\fs20\pard\intbl\ql {{ is owner}}\cell
+\clbrdrb\brdrw15\brdrs\cellx2781
+\qr {{9641}}\cell
+\clbrdrb\brdrw15\brdrs\cellx3913
+\qr {{.794}}\cell
+\clbrdrb\brdrw15\brdrs\cellx5044
+\qr {{0.405}}\cell
+\clbrdrb\brdrw15\brdrs\cellx6175
+\qr {{0}}\cell
+\clbrdrb\brdrw15\brdrs\cellx7306
+\qr {{1}}\cell
+\clbrdrb\brdrw15\brdrs\cellx8438
+\qr {{1}}\cell
+\clbrdrb\brdrw15\brdrs\cellx9569
+\qr {{1}}\cell
+\clbrdrb\brdrw15\brdrs\cellx10700
+\qr {{1}}\cell
+\row}
+
+
+\writepositionforappend
+}}
